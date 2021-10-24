@@ -1,0 +1,18 @@
+GET http://localhost:5000/todos HTTP/1.1
+
+###
+
+POST   http://localhost:5000/todos HTTP/1.1
+Content-Type: application/json
+
+
+{
+    "title" : "My Task number 02"
+}
+
+
+
+###
+
+
+DELETE  http://localhost:5000/todos/6174ed7b5b15e487289d7bbb HTTP/1.1

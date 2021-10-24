@@ -1,0 +1,32 @@
+img{
+    height: 500px;
+    width: 500px;
+    /* margin-top: 100px;
+    margin-left: 400px; */
+}
+
+.text{
+    margin-top: 250px;
+    justify-content: start;
+}
+
+#image{
+    margin-top: 100px;
+}
+#text2{
+    padding-top: 30px;
+}
+p{
+    margin-left:  50px;
+}
+
+
+#btn{
+    border: 0.5px solid blue;
+    color: blue;
+    font-size: bold;
+    margin-top: 30px;
+}
+
+
+

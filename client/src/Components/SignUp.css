@@ -1,0 +1,39 @@
+.container{
+  
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width : 350px;
+   margin-top: 140px;
+
+}
+
+
+.sm{
+  color: blue;
+  
+}
+
+
+h1{
+  color: darkblue;
+}
+
+h5,button{
+  color: gray;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+  margin-top: 250px;
+  margin-left: 60px;
+  margin-right: 100px;
+}
+
+
+
+
+p{
+  justify-content: start;
+}
+
+* {box-sizing: border-box}

@@ -1,0 +1,16 @@
+.block{
+    background-color: whitesmoke;
+    max-width: 35rem;
+    margin: auto;
+}
+
+
+
+.header{
+    background-color: aquamarine;
+}
+
+h2{
+    /* background-color: aqua; */
+    padding: 5px;
+}
